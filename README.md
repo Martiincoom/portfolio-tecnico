@@ -27,4 +27,4 @@ El objetivo de este proyecto es organizar los conocimientos adquiridos a lo larg
 
 ---
 
-<text color="secondary">Portfolio técnico académico · SMR</text>
+<text color="secondary">Portfolio técnico académico · DAM</text>
